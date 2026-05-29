@@ -10,7 +10,8 @@
   - [Enable Mandatory ASLR triggers cygheap errors](#enable-mandatory-aslr-triggers-cygheap-errors)
   - [I get a black screen when launching Desktop](#i-get-a-black-screen-when-launching-desktop)
   - [Failed to open CA file after an update](#failed-to-open-ca-file-after-an-update)
-  - [Authentication errors due to modified registry entries](#authentication-errors-due-to-modified-registry-entries)
+  - [Authentication errors due to modified registry entries](#authentication-errors-due-to-modified-registry-entri
+  - es)
 
 # Known Issues
 
